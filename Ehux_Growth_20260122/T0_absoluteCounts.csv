@@ -1,0 +1,16 @@
+﻿Specimen ID,Specimen,Plate ID,Well ID,Sample,Run Time,Unmix Method,Phyto1 Abs. Count,Phyto2 Abs. Count
+1,Specimen1,1,A1,TE,1/22/2026 2:22:24 PM,Spectral Unmix (LS),0,0
+1,Specimen1,1,A2,SW,1/22/2026 2:23:42 PM,Spectral Unmix (LS),0,0
+1,Specimen1,1,A3,1516 1:1,1/22/2026 2:25:01 PM,Spectral Unmix (LS),1793070,1721620
+1,Specimen1,1,A4,1516 A T0 1:1,1/22/2026 2:26:19 PM,Spectral Unmix (LS),206400,198220
+1,Specimen1,1,A5,1516 B T0 1:1,1/22/2026 2:27:37 PM,Spectral Unmix (LS),164490,159110
+1,Specimen1,1,A6,374 1:1,1/22/2026 2:28:55 PM,Spectral Unmix (LS),1561510,1487190
+1,Specimen1,1,A7,374 A T0 1:1,1/22/2026 2:30:13 PM,Spectral Unmix (LS),144450,134630
+1,Specimen1,1,A8,374 B T0 1:1,1/22/2026 2:31:32 PM,Spectral Unmix (LS),183040,169470
+1,Specimen1,1,B1,1516 1:4,1/22/2026 2:32:50 PM,Spectral Unmix (LS),811240,776400
+1,Specimen1,1,B2,1516 A T0 1:4,1/22/2026 2:34:08 PM,Spectral Unmix (LS),99910,96320
+1,Specimen1,1,B3,1516 B T0 1:4,1/22/2026 2:35:26 PM,Spectral Unmix (LS),84140,80590
+1,Specimen1,1,B4,374 1:4,1/22/2026 2:36:44 PM,Spectral Unmix (LS),811570,759820
+1,Specimen1,1,B5,374 A T0 1:4,1/22/2026 2:38:02 PM,Spectral Unmix (LS),68290,63110
+1,Specimen1,1,B6,374 B T0 1:4,1/22/2026 2:39:20 PM,Spectral Unmix (LS),90370,84280
+2,Specimen2,1,C1,NOVORINSE,1/22/2026 2:45:40 PM,Spectral Unmix (LS),0,0

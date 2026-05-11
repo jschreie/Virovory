@@ -1,0 +1,16 @@
+﻿Sample,Condition,Rep
+EA,positive,1
+EB,positive,2
+EC,UV1,1
+ED,UV1,2
+EE,UV1,3
+EF,UV3,1
+EG,UV3,2
+EH,UV3,3
+EI,UV5,1
+EJ,UV5,2
+EK,UV5,3
+EL,negative,1
+EM,negative,2
+EN,noHost,1
+EO,noHost,2

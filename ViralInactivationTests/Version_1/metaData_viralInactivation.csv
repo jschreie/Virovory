@@ -1,0 +1,11 @@
+﻿Sample,Condition,Rep
+EA,Heat20,1
+EB,Heat20,2
+EC,Heat20,3
+ED,Heat50,1
+EE,Heat50,2
+EF,Heat50,3
+EG,noHeat,1
+EH,noHeat,2
+EI,noVirus,1
+EJ,noVirus,2
